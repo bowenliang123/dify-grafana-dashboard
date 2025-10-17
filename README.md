@@ -13,6 +13,7 @@ A Grafana dashboard for [Dify](https://github.com/langgenius/dify).
     - Tenants Statistics
     - App Trends (TBD)
     - Messages Trends (TBD)
+    - Dataset Trends (TBD)
 
 ![](doc/assets/img.png)
 
